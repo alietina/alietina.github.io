@@ -1,0 +1,19 @@
+.ex {
+	opacity:0.5;
+	height: 200px;
+	background-color: #DDA0DD;
+	position:absolute;
+	left: 0;
+	top: 0;
+	width: 100%
+}
+.ex_1 {
+	height: 400px;
+	width: 400px;
+	background-color: red;
+	position: absolute;
+	left: 50%;
+	margin: -200px;
+	padding: 15px 20px 10px 20px;
+
+}
